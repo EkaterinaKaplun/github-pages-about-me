@@ -1,0 +1,77 @@
+html {
+    font-size: 16px;
+    background-color: #f7e9e9;
+}
+
+body {
+    font-family: 'Arsenal', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3.75rem;
+    font-weight: 400;
+}
+
+.home-page {
+    margin: 30px 0 0;
+}
+
+.home-page img {
+    width: 600px;
+    margin-right: 30px;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+.interest {
+    width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+li {
+    font-size: 1.2rem;
+}
+
+.text {
+    font-size: 1.175rem;
+}
+
+.hobby img {
+    width: 400px;
+    height: 600px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.job .text {
+    margin: 0 50px 0;
+}
+
+.advantages {
+    width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.communication .text {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.contact {
+    width: 600px;
+    margin: 0 auto;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.contact a {
+    color: black;
+    font-style: italic;
+}
