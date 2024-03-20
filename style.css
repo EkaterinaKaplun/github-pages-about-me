@@ -13,12 +13,11 @@ h1 {
     font-weight: 400;
 }
 
-.home-page {
+.container {
     margin: 30px 0 0;
 }
 
-.home-page img {
-    width: 600px;
+.container img {
     margin-right: 30px;
 }
 
@@ -38,11 +37,6 @@ li {
 
 .text {
     font-size: 1.175rem;
-}
-
-.hobby img {
-    width: 400px;
-    height: 600px;
 }
 
 .bold {
